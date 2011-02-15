@@ -16,12 +16,12 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {1257, 171}}</string>
-			<string>{{0, 181}, {1257, 640}}</string>
+			<string>{{0, 0}, {1035, 365}}</string>
+			<string>{{0, 375}, {1035, 298}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>0</integer>
+	<integer>5</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -30,6 +30,8 @@
 		<string>kagawa@uchida.co.jp</string>
 		<key>Path</key>
 		<string>alc</string>
+		<key>SavePath</key>
+		<string>/Users/shuhei/work/dashboard</string>
 		<key>enableSimulation</key>
 		<true/>
 		<key>simulatedHost</key>
@@ -43,24 +45,24 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {244, 842}}</string>
-			<string>{{245, 0}, {1258, 842}}</string>
+			<string>{{0, 0}, {244, 694}}</string>
+			<string>{{245, 0}, {1036, 694}}</string>
 		</array>
 	</dict>
 	<key>MainWindowFrame</key>
-	<string>-2 182 1502 863 0 0 1920 1058 </string>
+	<string>63 60 1280 715 0 0 1280 778 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
-		<integer>9</integer>
+		<integer>5</integer>
 		<key>SplitViewConfig</key>
 		<integer>3</integer>
 		<key>_indexOfCollapsedView</key>
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {246, 427}}</string>
-			<string>{{0, 437}, {246, 384}}</string>
+			<string>{{0, 0}, {246, 349}}</string>
+			<string>{{0, 359}, {246, 314}}</string>
 		</array>
 	</dict>
 	<key>Widget</key>
@@ -125,7 +127,7 @@
 		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>0</integer>
+				<integer>5</integer>
 			</array>
 		</array>
 		<key>Opened Steps</key>
